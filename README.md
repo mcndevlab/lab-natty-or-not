@@ -17,3 +17,6 @@ Vídeo de 54 segundos com a transcrição da foto em voz humana, parecendo muito
 
 ## 💭 Reflexão (Opcional)
 Eu avalio o resultado como um sucesso, atingindo o objetivo principal do desafio "fake natty": criar um conteúdo tão natural que seja difícil de diferenciar de um material feito por um humano.
+
+## 🎥 Demonstração do Projeto
+[Assista ao vídeo aqui]. https://github.com/mcndevlab/lab-natty-or-not/blob/b7a388568af31f96a2d9128eee5da2e2e9392ead/LabDIONattyOrNot_Marcio_Nascimento.mp4
